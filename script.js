@@ -4,7 +4,7 @@ let encodedData = document.getElementById("tab2");
 let decodedButton = document.getElementById("decode");
 let decodedData = document.getElementById("tab3");
 let reset = document.getElementById("reset");
-var input1 = "";
+var input = "";
 var encoded = "";
 var decoded = "";
 
