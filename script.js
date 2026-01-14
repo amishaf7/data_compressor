@@ -5,8 +5,8 @@ let decodedButton = document.getElementById("decode");
 let decodedData = document.getElementById("tab3");
 let reset = document.getElementById("reset");
 var input1 = "";
-var encoded = "";
-var decoded = "";
+var encoded1 = "";
+var decoded1 = "";
 
 class huffmanNode {
 
